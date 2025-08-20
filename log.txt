@@ -16,3 +16,31 @@ github
 keyl  loggerok e je vais mettre da         deposer mon code sur github donne moi une petite dis  iscription
 \x03\x16git init
 git add .
+git commit "intial"
+les commandes pour le rajouter e sur github
+\x03\x16
+git remote add main \x16
+git push origin main
+git branc -m origin
+h
+git push origin main
+\x03\x16
+chui dans la branche main cpar defaut
+\x16
+\x16
+\x03\x16
+\x16\x16
+\x03\x16
+fnn   n  n laisse la en origin
+\x16
+\x16
+ahh non ila  s""est depose dans une branch de origin mais pas dans la par defaut main
+\x16
+\x16
+\x03\x16
+\x16
+
+
+
+git init
+git a
