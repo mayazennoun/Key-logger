@@ -1,0 +1,7 @@
+@"
+# Fichiers à ignorer
+log.txt
+__pycache__/
+*.pyc
+.env
+"@ | Out-File -Encoding UTF8 .gitignore
